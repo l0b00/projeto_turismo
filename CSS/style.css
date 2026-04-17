@@ -41,6 +41,7 @@ menu a:hover {
 
 .card {
     display: flex;
+    padding: 10px;
     flex-direction: column;
     background-color: lightgray;
     border-radius: 8px;
