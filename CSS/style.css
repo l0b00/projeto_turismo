@@ -202,3 +202,95 @@ footer {
     color: white;
     margin-top: 20px;
 }
+
+
+/* Index */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+body {
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+.nav {
+    background-color: #2e8b57;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.nav img {
+    width: 80px;
+}
+
+.menu {
+    margin: 10px 0;
+}
+
+.menu a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+.menu a:hover {
+    text-decoration: underline;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    background-color: white;
+    margin-bottom: 20px;
+    padding: 15px;
+    border-radius: 10px;
+
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+section img {
+    width: 300px;
+    border-radius: 10px;
+}
+
+section p {
+    flex: 1;
+}
+
+section h2 {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+section h2 {
+    position: absolute;
+    margin-top: -25px;
+
+}
+
+
+aside {
+    background-color: #ddd;
+    padding: 15px;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+footer {
+    background-color: #2e8b57;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    margin-top: 20px;
+}
+
