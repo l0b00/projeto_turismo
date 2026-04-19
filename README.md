@@ -12,6 +12,6 @@ O site oferece dicas de viagens, dicas de restaurantes e conteúdos relacionados
  
 ## Link do nosso site
 
-{LInk dele, só falta isso}
+{LInk dele:(https://l0b00.github.io/projeto_turismo/index.html)}
  
 
