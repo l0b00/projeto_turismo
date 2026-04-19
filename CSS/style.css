@@ -84,7 +84,7 @@ section {
 .apresentacao {
     display: flex;
     flex-direction: column;
-    align-items: center;
+    align-items:start;
     gap: 20px;
     padding: 20px;
 }
@@ -184,7 +184,7 @@ button:hover {
 /* Aside e Footer */
 aside {
     background-color: #ddd;
-    padding: 20px;
+    padding: 30px;
     margin: 20px;
     border-radius: 10px;
 }
